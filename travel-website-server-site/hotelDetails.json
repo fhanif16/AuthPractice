@@ -1,0 +1,136 @@
+[
+    {
+      "id": 1,
+      "hotel_name": "Luxury Retreat",
+      "location": "Cox's Bazar",
+      "picture": "https://example.com/luxury_retreat.jpg",
+      "bedroom": 2,
+      "bathroom": 2,
+      "total_guests": 4,
+      "rating": 4.5,
+      "price": 250.00,
+      "category_id": "1"
+
+    },
+    {
+      "id": 2,
+      "hotel_name": "City View Suites",
+      "location": "Srimangal",
+      "picture": "https://example.com/city_view_suites.jpg",
+      "bedroom": 1,
+      "bathroom": 1,
+      "total_guests": 2,
+      "rating": 4.0,
+      "price": 150.00,
+      "category_id": "2"
+    },
+    {
+      "id": 3,
+      "hotel_name": "Mountain Retreat Lodge",
+      "location": "Sundarbaan",
+      "picture": "https://example.com/mountain_retreat_lodge.jpg",
+      "bedroom": 3,
+      "bathroom": 2.5,
+      "total_guests": 6,
+      "rating": 4.8,
+      "price": 350.00,
+      "category_id": "3"
+    },
+    {
+      "id": 4,
+      "hotel_name": "Seaside Oasis Resort",
+      "location": "Srimangal",
+      "picture": "https://example.com/seaside_oasis_resort.jpg",
+      "bedroom": 4,
+      "bathroom": 3,
+      "total_guests": 8,
+      "rating": 4.6,
+      "price": 400.00,
+      "category_id": "2"
+    },
+    {
+      "id": 5,
+      "hotel_name": "Historic Charm Inn",
+      "location": "Cox's Bazar",
+      "picture": "https://example.com/historic_charm_inn.jpg",
+      "bedroom": 2,
+      "bathroom": 1.5,
+      "total_guests": 4,
+      "rating": 4.2,
+      "price": 180.00,
+      "category_id": "1"
+    },
+    {
+      "id": 6,
+      "hotel_name": "Urban Skyline Suites",
+      "location": "Sundarbaan",
+      "picture": "https://example.com/urban_skyline_suites.jpg",
+      "bedroom": 1,
+      "bathroom": 1,
+      "total_guests": 2,
+      "rating": 4.3,
+      "price": 200.00,
+      "category_id": "3"
+    },
+    {
+      "id": 7,
+      "hotel_name": "Serenity Lodge",
+      "location": "Sundarbaan",
+      "picture": "https://example.com/serenity_lodge.jpg",
+      "bedroom": 2,
+      "bathroom": 2,
+      "total_guests": 4,
+      "rating": 4.7,
+      "price": 280.00,
+      "category_id": "3"
+    },
+    {
+      "id": 8,
+      "hotel_name": "Elegant Mansion",
+      "location": "Srimangal",
+      "picture": "https://example.com/elegant_mansion.jpg",
+      "bedroom": 5,
+      "bathroom": 4,
+      "total_guests": 10,
+      "rating": 4.9,
+      "price": 600.00,
+      "category_id": "2"
+    },
+    {
+      "id": 9,
+      "hotel_name": "Cozy Cottage",
+      "location": "Srimangal",
+      "picture": "https://example.com/cozy_cottage.jpg",
+      "bedroom": 1,
+      "bathroom": 1,
+      "total_guests": 2,
+      "rating": 4.4,
+      "price": 120.00,
+      "category_id": "2"
+    },
+    {
+      "id": 10,
+      "hotel_name": "Riverside Lodge",
+      "location": "Cox's Bazar",
+      "picture": "https://example.com/riverside_lodge.jpg",
+      "bedroom": 3,
+      "bathroom": 2.5,
+      "total_guests": 6,
+      "rating": 4.6,
+      "price": 320.00,
+      "category_id": "1"
+    },
+
+    {
+        "id": 11,
+        "hotel_name": "Riverside Lodge",
+        "location": "Cox's Bazar",
+        "picture": "https://example.com/riverside_lodge.jpg",
+        "bedroom": 3,
+        "bathroom": 2.5,
+        "total_guests": 6,
+        "rating": 4.6,
+        "price": 320.00,
+        "category_id": "1"
+      }
+  ]

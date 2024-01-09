@@ -1,0 +1,27 @@
+[
+    {  "id":1,
+        "hotelUser" : "F",
+        "picture" : "https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+        "price" : 129,
+        "room" : 1,
+        "people": 1
+
+
+    },
+    {"id":2,
+        "hotelUser" : "F",
+        "picture" : "https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+        "price" : 129,
+        "room" : 1,
+        "people": 2
+
+    },
+    {"id":3,
+        "hotelUser" : "F",
+        "picture" : "https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+        "price" : 129,
+        "room" : 1,
+        "people": 4
+
+    }
+]
